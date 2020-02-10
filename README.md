@@ -1,14 +1,16 @@
 # json-key-compare
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure application designed to compare two JSON objects and find missing keys
 
 ## Usage
 
-FIXME
+```
+lein run "file1 file2 outputfile"
+```
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Joshua Radecki
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
